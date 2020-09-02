@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+  <url>
+    <loc>https://www.oneprotech.com/covid19/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.oneprotech.com/covid19/mundo/datos1</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://www.oneprotech.com/covid19/mundo/datos2</loc>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/datos1</loc>
+    <changefreq>daily</changefreq>
+  </url>  
+    <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/datos2</loc>
+    <changefreq>daily</changefreq>
+  </url>  
+    <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/datos3</loc>
+    <changefreq>daily</changefreq>
+  </url>  
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/datos4</loc>
+    <changefreq>daily</changefreq>
+  </url>  
+    <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/datos5</loc>
+    <changefreq>daily</changefreq>
+  </url>  
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/datos6</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/region/costa</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/region/sierra</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/region/oriente</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/provincia/azuay</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/provincia/pichincha</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/provincia/el-oro</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/provincia/los-rios</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/provincia/manabi</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/provincia/cañar</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+  <url>
+    <loc>https://www.oneprotech.com/covid19/ecuador/provincia/guayas</loc>
+    <changefreq>daily</changefreq>
+  </url> 
+</urlset>
